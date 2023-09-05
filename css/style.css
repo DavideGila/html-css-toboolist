@@ -1,0 +1,70 @@
+* {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* colors */
+
+body {
+    background-color: #F6F8F9;
+}
+
+.bg-lightblue {
+    background-color: #47ADF1;
+}
+
+.bg-white {
+    background-color: #FFFFFF;
+}
+
+.bg-purple {
+    background-color: #9B71E3;
+}
+
+.bg-lightgreen {
+    background-color: #63C0A9;
+}
+
+.bg-orange {
+    background-color: #F29E33;
+}
+
+.bg-pink {
+    background-color: #D863A1;
+}
+
+.bg-peagreen {
+    background-color: #B0C926;
+}
+
+/* header */
+
+header {
+    background: white no-repeat;
+    display: flex;
+    align-items: center;
+    padding: 7px 11px;
+}
+
+
+/* main */
+
+main {
+    width: 54%;
+    margin: 0 auto;
+    background: white;
+    margin-top: 25px;
+    border-radius: 8px;
+}
+
+.button, .elenco {
+    padding: 12px 35px;
+}
+
+.first-container {
+    border-bottom: 3px solid #F5F8F9;
+}
+
+
+
