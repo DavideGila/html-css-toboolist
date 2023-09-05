@@ -96,6 +96,28 @@ main {
     font-size: 10px;
 }
 
+.green-mark {
+    width: 15px;
+    height: 15px;
+    border: 2px solid #A2D9CC;
+    display: inline-block;
+    border-radius: 50%;
+    color: green;
+    text-align: center;
+    line-height: 15px;
+}
+
+.red-x {
+    width: 15px;
+    height: 15px;
+    border: 2px solid #EF827E;
+    display: inline-block;
+    border-radius: 50%;
+    color: red;
+    text-align: center;
+    line-height: 15px;
+}
+
 .special-button-elenco {
     width: 48px;
     height: 17px;
